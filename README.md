@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Ujjal Sharma. I am studying Computer Science at BITS Goa. I like to build stuff.
-- 👀 I’m interested in a lot of things, mainly Machine Learning, App Development, Blockchain, Finance etc.
+👋 Hi, I’m Ujjal.
